@@ -10,8 +10,10 @@
 - Research on pointcloud technology and AI applications in pointcloud processing
 
 ### 🌱 I'm currently learning
-- JavaScript and React.js
-- C# and Python
+- JavaScript, TypeScript, and React.js
+- C# and .NET Core
+- Python
+- Node.js
 - AI training techniques and applications
 
 ### 👯 I'm looking to collaborate on
