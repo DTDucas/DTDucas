@@ -40,3 +40,11 @@
 
 [![DTDucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=DTDucas&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DTDucas&layout=compact&show_icons=true&theme=onedark&hide=roff,kotlin,shell,batchfile&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align=center>
+  <h3><b>Profile Visitor Count</b></h3>
+</div>
+    
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/dtducas/count.svg" />  
+</p>
