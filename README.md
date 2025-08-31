@@ -17,7 +17,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/doodle.svg" alt="Animated Doodle" width="400" />
+  <img src="https://raw.githubusercontent.com/DTDucas/Resources/main/image-profile/meow.svg" alt="Animated Doodle" width="400" />
 </div>
 
 <h3 align="center">🚀 Construction Tech Innovator | Full-Stack Developer | AI Enthusiast</h3>
