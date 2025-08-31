@@ -16,7 +16,7 @@
 </div>
 <br/>
 
-<div align="center" style="background:#4A90E2;">
+<div align="center">
   <img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/doodle.svg" alt="Animated Doodle" width="400" />
 </div>
 
