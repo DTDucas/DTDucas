@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey there! 👋 I'm <span style="color:#4A90E2;">Tran Quang Duong - DTDucas</span>)
+  Hey there! 👋 I'm <span style="color:#4A90E2;">Tran Quang Duong - DTDucas</span>
 </h1>
 <br/>
 <div align="center">
