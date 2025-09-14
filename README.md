@@ -53,7 +53,7 @@ I'm a passionate technologist from Vietnam, specializing in construction automat
 
 ###
 
-<div align="left">
+<div align="left" style="background-color: #f0f8ff;>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
