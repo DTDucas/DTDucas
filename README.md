@@ -123,7 +123,7 @@ I'm a passionate technologist from Vietnam, specializing in construction automat
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-iota-rust.vercel.app/?user=DTDucas&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3&height=200" />
+  <img src="https://github-readme-streak-stats-dpgw.vercel.app?user=DTDucas&theme=dark" />
 </div>
 
 ###
