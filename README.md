@@ -84,7 +84,7 @@ I'm a passionate technologist from Vietnam, specializing in construction automat
       <img src="https://github-readme-stats.vercel.app/api?username=DTDucas&show_icons=true&theme=onedark&count_private=true" height="150"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DTDucas&layout=compact&theme=onedark&hide=roff,kotlin,shell,batchfile" height="150"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DTDucas&langs_count=8&layout=compact&theme=onedark&hide=roff,kotlin,shell,batchfile" height="150"/>
     </td>
   </tr>
 </table>
