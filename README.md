@@ -71,7 +71,7 @@ I'm a passionate technologist from Vietnam, specializing in construction automat
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats-dpgw.vercel.app?user=DTDucas&theme=dark" height="150"/>
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=DTDucas&theme=tokyonight" height="150"/>
     </td>
     <td>
       <img src="https://leetcard.jacoblin.cool/DTDucas?theme=catppuccinMocha&font=Work%20Sans" 
