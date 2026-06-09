@@ -37,11 +37,14 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-I'm a passionate technologist from Vietnam, specializing in construction automation and AI applications.<br/><br/>
-🏗️ <strong>Current Role:</strong> Construction Tech Developer & BIM Automation Specialist<br/>
-📚 <strong>Learning:</strong> Advanced AI training & AWS Cloud (SAA preparation)<br/>
-⚡ <strong>Fun Fact:</strong> I love experimenting with emerging technologies to build solutions that benefit communities.<br/>
-💬 <strong>Ask me about:</strong> BIM automation, pointcloud processing, web development, or AI-powered tools.
+I'm a passionate software engineer and BIM developer from Vietnam, focused on building digital solutions for the Architecture, Engineering, and Construction (AEC) industry.<br/><br/>
+
+🏗️ <strong>Current Role:</strong> BIM Developer, Full-Stack Engineer & Construction Technology Innovator<br/>
+☁️ <strong>Specialties:</strong> BIM Automation, Revit API, Autodesk Platform Services (APS), Cloud Architecture, and AI-powered Applications<br/>
+📚 <strong>Currently Exploring:</strong> Advanced AI Systems, Multi-Agent Architectures, AWS Cloud, and Scalable SaaS Platforms<br/>
+🚀 <strong>Mission:</strong> Transforming traditional engineering workflows through automation, data intelligence, and modern software development<br/>
+💬 <strong>Ask me about:</strong> Revit API, BIM Automation, AEC Software Development, Cloud Engineering, DevOps, Full-Stack Development, SaaS or AI Integration.
+
 </p>
 
 ---
